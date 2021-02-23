@@ -13,3 +13,19 @@ E:\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.csproj.CopyComp
 E:\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.dll
 E:\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.pdb
 E:\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.genruntimeconfig.cache
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\TGbot.exe
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\TGbot.deps.json
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\TGbot.runtimeconfig.json
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\TGbot.runtimeconfig.dev.json
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\TGbot.dll
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\TGbot.pdb
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\git bot\Первый_бот\TGbot\TGbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.csprojAssemblyReference.cache
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.AssemblyInfoInputs.cache
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.AssemblyInfo.cs
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.csproj.CoreCompileInputs.cache
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.csproj.CopyComplete
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.dll
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.pdb
+E:\git bot\Первый_бот\TGbot\TGbot\obj\Debug\netcoreapp3.1\TGbot.genruntimeconfig.cache

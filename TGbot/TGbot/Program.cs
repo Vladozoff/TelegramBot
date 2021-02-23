@@ -12,7 +12,7 @@ namespace TGbot
         static public ITelegramBotClient botClient;
         static void Main(string[] args)
         {
-            botClient = new TelegramBotClient("1561413152:AAEVC7VbONJLKd0KXMm8qB97SNlxP1qJyWI");    
+            botClient = new TelegramBotClient("YOUR_BOT_TOKEN");    
             var me = botClient.GetMeAsync().Result;
             Console.WriteLine( $"Спасите меня, я бот по имени {me.FirstName}, мой UserName {me.Username}");
 

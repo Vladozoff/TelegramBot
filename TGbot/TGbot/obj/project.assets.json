@@ -4710,11 +4710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Первый_бот\\TGbot\\TGbot\\TGbot.csproj",
+      "projectUniqueName": "E:\\git bot\\Первый_бот\\TGbot\\TGbot\\TGbot.csproj",
       "projectName": "TGbot",
-      "projectPath": "E:\\Первый_бот\\TGbot\\TGbot\\TGbot.csproj",
+      "projectPath": "E:\\git bot\\Первый_бот\\TGbot\\TGbot\\TGbot.csproj",
       "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
-      "outputPath": "E:\\Первый_бот\\TGbot\\TGbot\\obj\\",
+      "outputPath": "E:\\git bot\\Первый_бот\\TGbot\\TGbot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vladislav\\AppData\\Roaming\\NuGet\\NuGet.Config",
