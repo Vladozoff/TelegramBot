@@ -35,7 +35,7 @@ namespace TGbot
                         break; 
 
                     case var message when message == "/help":
-                        await SendMessage(e.Message.Chat, "Команды:\n/info - Связь со создателем\n/skill - Скиллы создателя\n/gibhub - ссылка на GitHub\n/hh - ссылка на резюме");
+                        await SendMessage(e.Message.Chat, "Команды:\n/info - Связь со создателем\n/skill - Скиллы создателя\n/github - ссылка на GitHub\n/hh - ссылка на резюме");
                         break;
 
                     case var message when message == "/github":
@@ -62,6 +62,7 @@ namespace TGbot
 
             }
         }
+
 
         static async Task  SendMessage(Chat chatId, string message)
         {
